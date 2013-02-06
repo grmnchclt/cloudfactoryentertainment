@@ -55,7 +55,7 @@
         <li class="page collection page_981707" id="page_film"><span><a href="http://sjvanRoosevelt.com/film" title="Film" >Film</a></span></li><li class="page collection page_1001799" id="page_bump"><span><a href="http://sjvanRoosevelt.com/bump" title="BUMP" >BUMP</a></span></li><li class="page collection page_981709" id="page_visual-aid"><span><a href="http://sjvanRoosevelt.com/visual-aid" title="Visual Aid" >Visual Aid</a></span></li>    </ul>
 </li><li class="section active" id="section_89743"><span class="section_name">MUSIC</span>
     <ul>
-        <li class="page album page_1057628" id="page_dgbgvol0"><span><a href="http://sjvanRoosevelt.com/dgbgvol0" title="DGBGVOL0" >DGBGVOL0</a></span></li><li class="page active album page_1036826" id="page_schleepfucks"><span><a href="http://sjvanRoosevelt.com/schleepfucks" title="SCHLEEP FUCKS." >SCHLEEP FUCKS.</a></span></li><li class="page album page_1033426" id="page_schlagewalks"><span><a href="http://sjvanRoosevelt.com/schlagewalks" title="SCHLAGE WALKS." >SCHLAGE WALKS.</a></span></li><li class="page album page_1022675" id="page_doodle"><span><a href="http://sjvanRoosevelt.com/doodle" title="doodle" >doodle</a></span></li>    </ul>
+        <li class="page album page_1057628" id="page_springscampmix"><span><a href="http://sjvanRoosevelt.com/springscampmix" title="Springs Camp Mix" >Springs Cam Mix</a></span></li><li class="page active album page_1036826" id="page_schleepfucks"><span><a href="http://sjvanRoosevelt.com/schleepfucks" title="SCHLEEP FUCKS." >SCHLEEP FUCKS.</a></span></li><li class="page album page_1033426" id="page_schlagewalks"><span><a href="http://sjvanRoosevelt.com/schlagewalks" title="SCHLAGE WALKS." >SCHLAGE WALKS.</a></span></li><li class="page album page_1022675" id="page_doodle"><span><a href="http://sjvanRoosevelt.com/doodle" title="doodle" >doodle</a></span></li>    </ul>
 </li><li class="page custom page_1046290" id="page_hnf"><span><a href="http://sjvanRoosevelt.com/hnf" title="HNF" >HNF</a></span></li><li class="page blog page_1020413" id="page_personal"><span><a href="http://sjvanRoosevelt.com/personal" title="Personal" >Personal</a></span></li>	</ul>
     	<script>
 		virb.$('li.section > .section_name').toggle(function()
@@ -83,7 +83,7 @@
                 <!-- AUDIO ALBUM -->
 <div id="album">    
     <div id="title" class="">
-        <h2>MCMXCII</h2>
+        <h2>Schleep Fucks.</h2>
     </div>
     
     <div id="art">
@@ -103,11 +103,11 @@
     </div>
     
     <div id="description">
-        <p style="text-align: center;"><a href="http://theloniousmartin.bandcamp.com/album/mcmxcii"><img src="http://g.virbcdn.com/_f/cdn_images/resize_1024x1365/33/ContentImage-7526-171718-MCMXCII4.png" /></a></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;">MCMXCII.</p>
-<p style="text-align: center;">1992-Infinity</p>
-<p style="text-align: center;">20 years, 20 tracks.</p>
+        <p style="text-align: center;"><a href="http://thecloudfactory.bandcamp.com/"><img src="http://g.virbcdn.com/_f/cdn_images/resize_1024x1365/33/ContentImage-7526-171718-MCMXCII4.png" /></a></p>
+<p style="text-align: center;">Oh Yeah</p>
+<p style="text-align: center;">Schleep Fucks.</p>
+<p style="text-align: center;">Fuck Yeah</p>
+<p style="text-align: center;">19 years,19 tracks.</p>
 <p style="text-align: center;">Click the photo to download</p>
     </div>
     
@@ -148,5 +148,5 @@
 		});                                                                                                  			
 		</script>
 
-	<script type="text/javascript" charset="utf-8" src="http://g.virbcdn.com/_assets/_js/_site/site-min.js"></script><script type="text/javascript" charset="utf-8">var siteArgs = {"virbDomain":"virb.com","virbCDNDomain":"g.virbcdn.com","pageUrl":"mcmxcii","requestDomain":"theloniousmartin.com","maintenance":{"on":false,"authed":false},"isPreview":false,"isCustomize":false};virb.$(function() { virb.$.site.init(siteArgs); });if (!virb) { virb = {}; }virb.config = { debug: false }</script></body>
+	<script type="text/javascript" charset="utf-8" src="http://g.virbcdn.com/_assets/_js/_site/site-min.js"></script><script type="text/javascript" charset="utf-8">var siteArgs = {"virbDomain":"virb.com","virbCDNDomain":"g.virbcdn.com","pageUrl":"schleepfucks","requestDomain":"sjvanRoosevelt.com","maintenance":{"on":false,"authed":false},"isPreview":false,"isCustomize":false};virb.$(function() { virb.$.site.init(siteArgs); });if (!virb) { virb = {}; }virb.config = { debug: false }</script></body>
 </html>
